@@ -1,7 +1,6 @@
 package test.departmenttest;
 import org.junit.jupiter.api.Test;
 import static junit.framework.Assert.assertEquals;
-import Department;
 public class DepartmentTest {
     @Test
     public void setNameTest(){
